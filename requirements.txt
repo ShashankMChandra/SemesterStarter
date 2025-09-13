@@ -1,0 +1,25 @@
+# Core data stack
+pandas==2.2.2
+numpy==1.26.4
+matplotlib==3.8.4
+
+# SQL + relational
+sqlalchemy==2.0.30
+duckdb==1.0.0      # optional, fast for CSV/Parquet; sqlite3 is in stdlib
+
+# File handling & parsing
+pypdf==4.2.0       # PDF text extraction
+pyyaml==6.0.1      # for config files
+
+# Text processing & retrieval
+sentence-transformers==3.0.1
+chromadb==0.5.5
+rank-bm25==0.2.2
+
+# CLI & UX helpers
+rich==13.7.1       # nice console output
+ics==0.7.2         # optional, export assignment calendar
+
+# Dev tools
+ruff==0.5.7        # fast linter/formatter
+pytest==8.2.1      # testing

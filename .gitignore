@@ -1,0 +1,16 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Data & outputs
+data/*
+!data/samples/
+output/*
+!output/.gitkeep
+
+# OS files
+.DS_Store
