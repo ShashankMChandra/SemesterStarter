@@ -1,4 +1,4 @@
-# 🎓 Semester Starter Toolkit
+# 🎓 SemesterStarter
 
 **Goal:**  
 This project is a teaching-oriented, open-source toolkit that grows step-by-step alongside a university course on **Python, data management, and modern retrieval systems**.  
@@ -100,8 +100,8 @@ We welcome developers, educators, and students to join:
 
 1. Clone and set up environment:
    ```bash
-   git clone https://github.com/<your-username>/semester-starter-toolkit.git
-   cd semester-starter-toolkit
+   git clone https://github.com/<your-username>/SemesterStarter.git
+   cd SemesterStarter
    python3 -m venv .venv
    source .venv/bin/activate
    pip install -r requirements.txt
